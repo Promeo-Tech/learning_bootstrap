@@ -1,0 +1,9 @@
+body{
+    background-image: url("1.png");
+    background-size: cover;
+}
+
+.FontOnlyChild{
+    font-family:fantasy
+
+}
